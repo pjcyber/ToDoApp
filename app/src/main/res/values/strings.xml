@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="dialog_insert_title">Insert Item</string>
+    <string name="dialog_update_title">Update Item</string>
+    <string name="dialog_cancel">cancel</string>
+    <string name="dialog_ok">Ok</string>
+</resources>
