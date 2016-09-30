@@ -7,10 +7,10 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
 import com.activeandroid.ActiveAndroid;
-import com.codepath.pborrayo.todoapp.CustomAlertDialog;
+import com.codepath.pborrayo.todoapp.alertdialog.CustomAlertDialog;
 import com.codepath.pborrayo.todoapp.model.Item;
 import com.codepath.pborrayo.todoapp.R;
-import com.codepath.pborrayo.todoapp.RecyclerViewAdapter;
+import com.codepath.pborrayo.todoapp.adapter.RecyclerViewAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

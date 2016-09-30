@@ -1,10 +1,13 @@
-package com.codepath.pborrayo.todoapp;
+package com.codepath.pborrayo.todoapp.alertdialog;
 
 import android.content.Context;
 import android.content.DialogInterface;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AlertDialog.Builder;
 import android.widget.EditText;
+
+import com.codepath.pborrayo.todoapp.R;
+import com.codepath.pborrayo.todoapp.adapter.RecyclerViewAdapter;
 
 /**
  * Created by pborrayo on 9/29/16.

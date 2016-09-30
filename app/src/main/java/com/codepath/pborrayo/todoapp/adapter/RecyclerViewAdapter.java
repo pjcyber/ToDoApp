@@ -1,4 +1,4 @@
-package com.codepath.pborrayo.todoapp;
+package com.codepath.pborrayo.todoapp.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -9,6 +9,8 @@ import android.view.View.OnLongClickListener;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.codepath.pborrayo.todoapp.alertdialog.CustomAlertDialog;
+import com.codepath.pborrayo.todoapp.R;
 import com.codepath.pborrayo.todoapp.model.Item;
 
 import java.util.List;
